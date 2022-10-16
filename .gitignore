@@ -1,0 +1,10 @@
+.env
+.env.production
+.idea
+.DS_Store
+.DS_Store?
+*.pyc
+*.swp
+.vscode/
+__pycache__/
+venvs
